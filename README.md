@@ -27,3 +27,9 @@ ST Depression
 Slope
 
 Number of Major Vessels (ca)
+
+Thalassemia
+
+Target (0 = No disease, 1 = Disease)
+
+The model used for this project is Logistic Regression, and it achieved an accuracy of 87.5%.
